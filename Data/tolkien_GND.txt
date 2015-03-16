@@ -1,0 +1,66 @@
+CAT   L $$aBATCH$$b90$$c20120421$$lACC18$$h0146
+CAT   L $$aBATCH$$b90$$c20120722$$lACC18$$h1337
+CAT   L $$aBATCH$$b90$$c20120831$$lACC18$$h1756
+CAT   L $$aBATCH$$b90$$c20130301$$lACC18$$h1821
+CAT   L $$aBATCH$$b90$$c20130726$$lACC18$$h1759
+CAT   L $$aBATCH$$b90$$c20130621$$lACC18$$h1740
+DB    L ACC18
+SYSID L 2041365
+FMT   L PS
+LDR   L ^^^^^nz^^a2200601n^^4500
+001   L $$a(DE-588)118623222
+005   L $$a20130717174931.0
+024   L $$ahttp://d-nb.info/gnd/118623222
+039   L $$a(DE-588a)118623222$$vzg
+039   L $$a(DE-588a)134984269
+039   L $$a(DE-588a)131176935
+039   L $$a(DE-101c)310674263
+039   L $$a(DE-588c)4060359-3$$vzg
+043   L $$aXA-GB$$aXC-ZA
+065   L $$a12.2p$$a11.2p
+092   L $$a19880701
+093   L $$apiz
+095   L $$a1
+096   L $$av$$aw$$ak$$am$$az
+097   L $$ap
+098   L $$as$$af$$az
+100   L $$pTolkien, J. R. R.$$d1892-1973
+375   L $$a1
+400   L $$pTolkien, John Ronald Reuel$$d1892-1973$$4navo$$vM
+400   L $$pTolkien, John Ronald R.$$d1892-1973
+400   L $$pTolkien, John R. R.$$d1892-1973
+400   L $$pTolkien, John R.$$d1892-1973
+400   L $$pTolkien, John$$d1892-1973
+400   L $$pTolkien, ...$$d1892-1973
+400   L $$pTolkin, ǅon Ronalʹd Ruėl$$d1892-1973
+400   L $$pTolkin, ǅ. R. R.$$d1892-1973
+400   L $$pT'olk'in, J. R. R.$$d1892-1973
+400   L $$pT'ork'in, J. R. R.$$d1892-1973
+400   L $$UJpan$$pトールキン, J.R.R.$$d1892-1973$$5DE-576
+500   L $$pTolkien, Christopher$$d1924-$$4bezf$$vSohn$$9(DE-588)130457671
+500   L $$pTolkien, Simon$$d1959-$$4bezf$$vEnkel$$9(DE-588)128611383
+548   L $$a1892-1973$$4datl
+548   L $$a03.01.1892-02.09.1973$$4datx
+550   L $$sProfessor$$4akad
+550   L $$sSchriftsteller$$4berc$$9(DE-588)4053309-8
+550   L $$sPhilologe$$4beru$$9(DE-588)4199236-2
+550   L $$ss$$4funk
+550   L $$sText$$4funk
+551   L $$gBloemfontein$$4ortg$$9(DE-588)4488274-9
+551   L $$gOxford$$4orts$$9(DE-588)4044234-2
+667   L $$a7
+667   L $$aRAK und GND-ÜR, PR 11
+667   L $$aBNPe
+670   L $$aLCAuth
+692   L $$aSir Gawain and The Green Knight. - 1925
+700   L $$pTolkien, J. R. R.$$d1892-1973$$F(DLC)n 79005673$$2naf$$v(John Ronald Reuel), ;1892-1973
+903   L $$eDE-101$$rDE-101
+970   L $$a118623222
+970   L $$a134984269
+970   L $$a131176935
+970   L $$a310674263
+970   L $$a4060359-3
+990   L $$Spnd$$ia$$aTolkien, John R. R.$$9(DE-588a)118623222
+EXTDB L $$aOCLCGND
+EXTV  L $$a20130717174931.0
+EXTS  L $$a(DE-588)118623222
