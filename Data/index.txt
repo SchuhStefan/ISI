@@ -1,0 +1,12 @@
+# Examples omitted in the paper
+## Entries and access points
+   * For the statements of responsibility see the files
+         tolkien_bvb.MRC, line 25 (RAK, MAB2)
+         tolkien_loc.mrc, line 15 (AACR2, MARC21)
+   * For the GND-Record of J.R.R. Tolkien, see the file
+         tolkien_GND.txt
+## Possible Gains and Losses from Moving from RAK to RDA in D-A-CH
+   * For the recording of publishers see the files
+         tolkien_bvb.MRC, line 27 (RAK, MAB2; incorrect)
+         tolkien_oxford.mrc, line 15 (AACR2, MARC21)
+         tolkien_RDA.mrc, line 24 (RDA, ASEQ)
